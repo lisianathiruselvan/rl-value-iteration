@@ -1,6 +1,6 @@
 # VALUE ITERATION ALGORITHM
 ## AIM
-To develop a Python program to find the optimal policy for the given MDP using the value iteration algorithm.
+To develop a Python program to find the optimal policy for the given MDP using the value iteration algorithm..
 
 ## PROBLEM STATEMENT
 The FrozenLake environment in OpenAI Gym is a gridworld problem that challenges reinforcement learning agents to navigate a slippery terrain to reach a goal state while avoiding hazards. Note that the environment is closed with a fence, so the agent cannot leave the gridworld.
