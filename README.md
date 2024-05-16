@@ -75,6 +75,9 @@ The algorithm is as follows:
 
 ## VALUE ITERATION FUNCTION
 ```
+DEVELOPED BY : Lisiana T
+REG NO : 212222240053
+
 def value_iteration(P, gamma=1.0, theta=1e-10):
     V = np.zeros(len(P), dtype=np.float64)
     while True:
